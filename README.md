@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=msachitxd" alt="msachitxd" /></a> </p>
 
-- 🌱 I’m currently learning **BCA, MCA**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 📝 I regularly write articles on [mobile app development using Flutter and Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications](mobile app development using Flutter and Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications)
 
@@ -27,18 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&locale=en" alt="msachitxd" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&" alt="msachitxd" /></p>
-
-<!--
-**MsachitXD/MsachitXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
