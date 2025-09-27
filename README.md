@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 📝 I regularly write articles on [mobile app development using Flutter and Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications](mobile app development using Flutter and Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications)
+- 📝 I regularly write articles on [mobile app development using Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications](mobile app development using Swift, sharing insights, tutorials, and best practices to help developers build high-quality, cross-platform and native iOS applications)
 
-- 💬 Ask me about **Flutter, Swift , JAVA, MySQL**
+- 💬 Ask me about **Swift , JAVA, MySQL**
 
 - ⚡ Fun fact **I can switch between Flutter and Swift like flipping a light switch—because building great apps shouldn’t be limited by platform!**
 
