@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachit Mittal</h1>
-<h3 align="center">Proudly Made in India – Bridging Platforms with Flutter & Swift</h3>
+<h3 align="center">Proudly Made in India – Bridging Platforms with Swift</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msachitxd&label=Profile%20views&color=0e75b6&style=flat" alt="msachitxd" /> </p>
 
