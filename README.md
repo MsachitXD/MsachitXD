@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://github.com/MsachitXD/MsachitXD/blob/main/profile.jpg?raw=true" width="150" style="border-radius:50%"/>
+
+<br/>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Sachit+Mittal;iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist+%E2%9C%A8;Apple+Ads+Certified+2026+%F0%9F%8F%86)
 
 <br/>
