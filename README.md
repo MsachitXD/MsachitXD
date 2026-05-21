@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="1024" height="1024" alt="WhatsApp Image 2022-12-15 at 18 43 22" src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="150" style="border-radius:50%" />
+<a href="https://github.com/MsachitXD">
+<img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120"/>
+</a>
 
 <br/>
 
