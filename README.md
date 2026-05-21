@@ -19,12 +19,23 @@ iOS Developer · Swift & SwiftUI · Apple Ads Certified 🇮🇳
 
 ---
 
-## 📱 What I Build
+## 📱 Projects
 
-- Native **iPhone apps with SwiftUI**
-- **MVVM architecture** for clean scalable code
-- REST API integration with **URLSession & async/await**
-- Local data storage with **Core Data & SQLite**
+### 🌅 WallSky — Wallpaper App
+> SwiftUI · MVVM · Core Data
+
+A wallpaper app with category browsing, favorites, and download to device.
+
+🔗 [View on GitHub](https://github.com/MsachitXD/WallSky-App.git)
+
+---
+
+### 📰 News Reader App
+> SwiftUI · MVVM · URLSession · REST API · async/await
+
+Real-time news app fetching live articles with category tabs.
+
+🔗 [View on GitHub](https://github.com/MsachitXD/News-App.git)
 
 ---
 
@@ -41,13 +52,11 @@ iOS Developer · Swift & SwiftUI · Apple Ads Certified 🇮🇳
 ## 🛠️ Tech Stack
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/SwiftUI_Logo.svg" width="40" height="40"/>
-<img src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" height="40" title="Swift"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" title="Git"/>
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" title="SQLite"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
 </p>
 
 ---
@@ -55,13 +64,10 @@ iOS Developer · Swift & SwiftUI · Apple Ads Certified 🇮🇳
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msachitxd&layout=compact&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=tokyonight&rank_icon=github" />
 </p>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&rank_icon=github" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msachitxd&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
