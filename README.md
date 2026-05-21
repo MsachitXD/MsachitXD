@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Sachit%20Mittal&fontSize=50&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%C2%B7%20Swift%20%26%20SwiftUI%20%C2%B7%20Apple%20Ads%20Certified&descAlignY=60&descSize=16&descColor=a8dadc" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=500&lines=iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist;Apple+Ads+Certified+2026+%F0%9F%8F%86;Building+Clean+%26+Smooth+Apps+%E2%9C%A8" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=600&height=80&lines=Hi+%F0%9F%91%8B+I'm+Sachit+Mittal;iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist+%E2%9C%A8;Apple+Ads+Certified+2026+%F0%9F%8F%86)
 
 <br/>
 
@@ -84,5 +82,3 @@ Real-time news app with live API, category tabs and article navigation.
 ## 🎯 Goal
 
 > *Become a professional iOS Engineer building high-quality apps for real users.* 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer&fontColor=e94560" />
