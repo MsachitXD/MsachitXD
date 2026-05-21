@@ -64,12 +64,12 @@ Real-time news app fetching live articles with category tabs.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=tokyonight&rank_icon=github" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=msachitxd&layout=compact&theme=tokyonight&langs_count=6" />
+<img src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=tokyonight" alt="Sachit GitHub Stats" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msachitxd&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🎯 Goal
