@@ -1,8 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/MsachitXD">
-<img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120"/>
-</a>
+<img src="https://github.com/MsachitXD/MsachitXD/blob/main/profile.jpg?raw=true" width="120" height="120"/>
 
 <br/>
 
