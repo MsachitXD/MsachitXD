@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20&height=200&section=header&text=Sachit%20Mittal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%26%20SwiftUI&descAlignY=58&descSize=18"/>
 
 <a href="https://github.com/MsachitXD">
-  <img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120" style="border-radius:50%"/>
+  <img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120"/>
 </a>
 
 <br/>
@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-```swift
+\`\`\`swift
 struct Developer {
     let name = "Sachit Mittal"
     let role = "iOS Developer"
@@ -29,7 +29,7 @@ struct Developer {
     var learning = ["Python", "FastAPI"]
     var mission = "Ship clean, fast, delightful iOS apps"
 }
-```
+\`\`\`
 
 - 🍎 iOS Developer with **2+ years** experience in Swift & SwiftUI
 - 🏆 **Apple Ads Certified Professional 2026**
@@ -111,16 +111,6 @@ Word-guessing game with a custom database of 20 categories × 30 words, built fu
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&theme=radical&hide_border=true" />
 </div>
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<img src="https://raw.githubusercontent.com/MsachitXD/MsachitXD/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
-<!--END_SECTION:waka-->
-
-</div>
-
-> 💡 The snake animation above needs a one-time GitHub Action set up on your profile repo (`MsachitXD/MsachitXD`) — I can walk you through that if you want it live.
 
 ---
 
