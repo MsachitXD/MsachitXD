@@ -1,6 +1,3 @@
-Yes 👍 Here is the **complete final `README.md` code**, all in one block, ready to copy.
-
-````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
