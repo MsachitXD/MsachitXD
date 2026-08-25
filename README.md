@@ -1,139 +1,255 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20&height=200&section=header&text=Sachit%20Mittal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%26%20SwiftUI&descAlignY=58&descSize=18"/>
+<!-- Animated Header -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Engineer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Core+Data;Exploring+Python+%26+FastAPI+%F0%9F%90%8D;Turning+ideas+into+real+apps+%F0%9F%9A%80;Always+learning.+Always+building.+%E2%9C%A8"/>
+
+<br/>
 
 <a href="https://github.com/MsachitXD">
-  <img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<br/>
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E94560&center=true&vCenter=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Sachit+Mittal;iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist+%E2%9C%A8;Apple+Ads+Certified+2026+%F0%9F%8F%86;Building+for+App+Store+%F0%9F%9A%80)
-
-![Profile Views](https://komarev.com/ghpvc/?username=msachitxd&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachit-mittal)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsachitXD)
+<a href="https://linkedin.com/in/sachit-mittal">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=msachitxd&style=for-the-badge&color=0f3460&label=VISITORS"/>
 
 </div>
 
 ---
 
-### 🚀 About Me
+#  Hello, I'm Sachit
+
+I'm an **iOS Developer** focused on building clean, responsive and enjoyable mobile experiences with **Swift and SwiftUI**.
+
+My main focus is the Apple ecosystem, while I'm expanding into backend development with **Python and FastAPI** to build complete products from frontend to backend.
 
 ```swift
-struct Developer {
-    let name = "Sachit Mittal"
-    let role = "iOS Developer"
-    var experience = "2+ years"
-    var stack = ["Swift", "SwiftUI", "MVVM", "Core Data"]
-    var learning = ["Python", "FastAPI"]
-    var mission = "Ship clean, fast, delightful iOS apps"
-}
+let developer = Developer(
+    focus: "iOS Engineering",
+    frontend: ["Swift", "SwiftUI"],
+    architecture: ["MVVM"],
+    persistence: ["Core Data", "SQLite"],
+    backend: ["Python", "FastAPI"],
+    goal: "Build products people actually use"
+)
 ```
 
-- 🍎 iOS Developer with **2+ years** experience in Swift & SwiftUI
-- 🏆 **Apple Ads Certified Professional 2026**
-- 🌱 Currently learning **Python & FastAPI** — building toward AI-powered iOS apps
-- 💬 Ask me about **Swift, SwiftUI, MVVM, Core Data**
-- ⚡ I care about **clean code, smooth UI, and great user experience**
-- 🎯 Goal: land an iOS Engineer role building high-quality apps for real users, ideally abroad
+### ⚡ What I Do
+
+```text
+📱 iOS Development       → Swift + SwiftUI
+🎨 UI Engineering        → Responsive & polished interfaces
+🏗️ Architecture          → MVVM + clean separation
+💾 Local Storage         → Core Data + SQLite
+🌐 Backend               → Python + FastAPI
+🚀 Product Building      → Idea → App → Backend
+🍎 Apple Ecosystem       → Xcode + App Store
+```
 
 ---
 
-### 📱 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🎲 ROLL XD — Dice Roller**
-<br/>
-<sub>SwiftUI · Haptics · GeometryReader</sub>
-
-Polished dice-rolling app with responsive sizing and haptic feedback, App Store–ready.
-
-[🔗 View Repo](https://github.com/MsachitXD/Dice-App)
-
-</td>
-<td width="50%" valign="top">
-
-**🖼️ WallSky — Wallpaper App**
-<br/>
-<sub>SwiftUI · MVVM · Core Data</sub>
-
-Wallpaper app with category browsing, favorites, and on-device downloads.
-
-[🔗 View Repo](https://github.com/MsachitXD/WallSky-App)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📰 News Reader App**
-<br/>
-<sub>SwiftUI · MVVM · URLSession · REST API · async/await</sub>
-
-Real-time news app with a live API, category tabs, and article navigation.
-
-[🔗 View Repo](https://github.com/MsachitXD/News-App)
-
-</td>
-<td width="50%" valign="top">
-
-**🔤 Hangman**
-<br/>
-<sub>SwiftUI · Core Data · Offline</sub>
-
-Word-guessing game with a custom database of 20 categories × 30 words, built fully offline.
-
-[🔗 View Repo](https://github.com/MsachitXD)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
+# 🧩 My Current Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,python,fastapi,sqlite,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=swift,xcode,python,fastapi,sqlite,git,github&theme=dark"/>
+
+</div>
+
+<br/>
+
+| Area             | Technologies                         |
+| ---------------- | ------------------------------------ |
+| **iOS**          | Swift · SwiftUI · Xcode              |
+| **Architecture** | MVVM                                 |
+| **Data**         | Core Data · SQLite                   |
+| **Networking**   | URLSession · REST APIs · async/await |
+| **Backend**      | Python · FastAPI                     |
+| **Tools**        | Git · GitHub · Xcode                 |
+
+---
+
+# 🚀 Selected Work
+
+<div align="center">
+
+### 🎲 ROLL XD
+
+**A polished SwiftUI dice experience**
+
+`SwiftUI` `Haptics` `GeometryReader`
+
+Responsive interface • Smooth animations • Haptic feedback
+
+<a href="https://github.com/MsachitXD/Dice-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🖼️ WallSky
+
+**A modern wallpaper experience for iOS**
+
+`SwiftUI` `MVVM` `Core Data`
+
+Categories • Favorites • Downloads • Local persistence
+
+<a href="https://github.com/MsachitXD/WallSky-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 📰 News Reader
+
+**Real-time news built with modern Swift networking**
+
+`SwiftUI` `MVVM` `REST API` `async/await`
+
+Live data • Categories • Article navigation
+
+<a href="https://github.com/MsachitXD/News-App">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+---
+
+### 🔤 Hangman
+
+**Offline word game built entirely with SwiftUI**
+
+`SwiftUI` `Core Data` `Offline`
+
+20 categories • 600 words • Local database
+
+<a href="https://github.com/MsachitXD">
+<img src="https://img.shields.io/badge/MORE%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats
+# 🐍 From iOS → Backend
+
+I'm currently expanding beyond the client side.
+
+```text
+                 ┌─────────────────────┐
+                 │      SwiftUI        │
+                 │     iOS App         │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │      REST API       │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │   Python / FastAPI  │
+                 └──────────┬──────────┘
+                            │
+                            ▼
+                 ┌─────────────────────┐
+                 │    SQLite / Data    │
+                 └─────────────────────┘
+```
+
+**Long-term direction:**
+
+> SwiftUI frontend + Python backend + AI-powered features.
+
+---
+
+# 🏆 Certifications & Learning
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&theme=radical&hide_border=true" />
+
+<img src="https://img.shields.io/badge/Apple%20Ads-Certified%202026-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-iOS%20Development-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
 </div>
 
 ---
 
-### 🏆 Certifications
+# 📈 GitHub Activity
 
 <div align="center">
 
-![Apple](https://img.shields.io/badge/Apple_Ads_Certified_2026-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Udemy](https://img.shields.io/badge/iOS_Masterclass_2026-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&hide_border=true&theme=transparent"/>
 
 </div>
 
----
-
-<div align="center">
-
-### 🎯 Currently
-🔭 Exploring AI-powered iOS apps — connecting a FastAPI backend to a SwiftUI frontend
 <br/>
-📫 Reach me on **[LinkedIn](https://linkedin.com/in/sachit-mittal)**
 
-<sub>💬 *"Become a professional iOS Engineer building high-quality apps for real users."*</sub>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msachitxd&bg_color=00000000&color=888888&line=007AFF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20&height=100&section=footer"/>
+---
+
+# 🧠 Currently Building
+
+<div align="center">
+
+```text
+████████████████████████████████████████  100%
+
+SwiftUI                         ████████████████████
+iOS Architecture               ███████████████████░
+Python                          ████████████████░░░░
+FastAPI                         ██████████████░░░░░░
+AI + iOS                        ███████████░░░░░░░░░
+```
+
+**Learning → Building → Shipping**
+
+</div>
+
+---
+
+# 🎯 2026 → Next Chapter
+
+```text
+✓ Strengthen Swift & SwiftUI
+✓ Build production-quality iOS projects
+✓ Learn Python backend development
+✓ Build FastAPI services
+→ Combine iOS + Backend + AI
+→ Ship real products
+→ Grow as an iOS Engineer
+```
+
+---
+
+<div align="center">
+
+## Let's Build Something Great.
+
+**Swift • SwiftUI • Python • FastAPI • AI**
+
+<br/>
+
+<a href="https://linkedin.com/in/sachit-mittal">
+<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>Designed with  and a lot of Swift.</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:000000&height=120&section=footer"/>
