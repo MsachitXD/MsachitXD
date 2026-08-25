@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Core+Data;Learning+Python+step+by+step+%F0%9F%90%8D;Exploring+AI+%26+mobile+development+%F0%9F%A4%96;Always+learning.+Always+building.+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Xcode;Creating+apps+with+Swift+%F0%9F%8D%8E;Learning+Python+step+by+step+%F0%9F%90%8D;Exploring+AI+%26+ML+%F0%9F%A4%96;Always+learning.+Always+building.+%E2%9C%A8"/>
 
 <br/>
 
@@ -26,62 +26,107 @@
 
 I'm an **iOS Developer** focused on building clean, responsive and enjoyable mobile experiences with **Swift and SwiftUI**.
 
-My current focus is the **Apple ecosystem**, with an interest in expanding my skills into Python and AI development over time.
+My current focus is the **Apple ecosystem**. I'm also expanding my knowledge of **Python and AI/ML** step by step.
 
 ```swift
 struct Developer {
     let focus = "iOS Development"
-    let skills = ["Swift", "SwiftUI", "MVVM", "Core Data"]
-    let tools = ["Xcode", "Git", "GitHub"]
-    let learning = ["Python"]
+    let skills = [
+        "Swift",
+        "SwiftUI",
+        "MVVM",
+        "Core Data"
+    ]
+
+    let tools = [
+        "Xcode",
+        "Git",
+        "GitHub"
+    ]
+
+    let aiTools = [
+        "ChatGPT",
+        "Claude"
+    ]
+
+    let learning = [
+        "Python",
+        "AI / ML"
+    ]
+
     let goal = "Build great apps for real users"
 }
 ```
 
-### ⚡ What I Do
+---
+
+# ⚡ What I Do
 
 ```text
 📱 iOS Development       → Swift + SwiftUI
 🎨 UI Engineering        → Responsive & polished interfaces
 🏗️ Architecture          → MVVM
-💾 Local Persistence     → Core Data
-🧩 App Development       → Building practical iOS projects
-🍎 Apple Ecosystem       → Xcode + App Store
-🌱 Currently Learning    → Python
+🌐 Networking             → REST APIs + URLSession
+⚡ Modern Swift           → async/await
+💾 Data                   → Core Data
+🛠️ Development Tools     → Git + GitHub + Xcode
+🤖 AI Tools               → ChatGPT + Claude
+🌱 Currently Learning     → Python + AI/ML
 ```
 
 ---
 
-# 🧩 My Current Stack
+# 🧩 Skills & Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,git,github&theme=dark"/>
+### 🍎 iOS Development
+
+<img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark"/>
+
+<br/><br/>
+
+**Swift · SwiftUI · Xcode · MVVM · URLSession · async/await**
+
+<br/><br/>
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
+
+<br/><br/>
+
+**Git · GitHub**
+
+<br/><br/>
+
+### 🤖 AI Tools
+
+**ChatGPT · Claude · AI-assisted development**
+
+<br/><br/>
+
+### 🌱 Currently Learning
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+**Python · AI / ML fundamentals**
 
 </div>
 
-<br/>
-
-| Area             | Technologies                         |
-| ---------------- | ------------------------------------ |
-| **iOS**          | Swift · SwiftUI · Xcode              |
-| **Architecture** | MVVM                                 |
-| **Data**         | Core Data                            |
-| **Networking**   | URLSession · REST APIs · async/await |
-| **Tools**        | Git · GitHub · Xcode                 |
-| **Learning**     | Python 🌱                            |
-
 ---
 
-# 🚀 Selected Work
+# 🚀 Selected Projects
 
 <div align="center">
 
-### 🎲 ROLL XD
+## 🎲 ROLL XD
 
-**A polished SwiftUI dice experience**
+### A polished SwiftUI dice experience
 
-`SwiftUI` `Haptics` `GeometryReader` `Offline`
+`SwiftUI` `Haptics` `GeometryReader`
 
 Responsive interface • Smooth animations • Haptic feedback
 
@@ -89,27 +134,31 @@ Responsive interface • Smooth animations • Haptic feedback
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
 ---
 
-### 🖼️ WallSky
+## 🖼️ WallSky
 
-**A modern wallpaper experience for iOS**
+### A modern wallpaper experience for iOS
 
 `SwiftUI` `MVVM`
 
-Categories • Favorites • Downloads • Local persistence
+Category browsing • Favorites • Wallpaper downloads
 
 <a href="https://github.com/MsachitXD/WallSky-App">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
 ---
 
-### 📰 News Reader
+## 📰 News Reader
 
-**Real-time news built with modern Swift networking**
+### Real-time news built with modern Swift networking
 
-`SwiftUI` `MVVM` `REST API` `async/await`
+`SwiftUI` `MVVM` `URLSession` `REST API` `async/await`
 
 Live data • Categories • Article navigation
 
@@ -117,15 +166,17 @@ Live data • Categories • Article navigation
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<br/><br/>
+
 ---
 
-### 🔤 Hangman
+## 🔤 Hangman
 
-**Offline word game built entirely with SwiftUI**
+### An offline word-guessing game
 
-`SwiftUI` `MVVM` `Offline`
+`SwiftUI` `Offline` `MVVM`
 
-20 categories • 600 words • Local database
+20 categories • 600 words • Offline gameplay
 
 <a href="https://github.com/MsachitXD">
 <img src="https://img.shields.io/badge/MORE%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white"/>
@@ -135,41 +186,47 @@ Live data • Categories • Article navigation
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Learning Journey
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br/><br/>
-
-### Python
-
-Learning Python step by step with the goal of understanding:
-
 ```text
-Python Fundamentals
-        ↓
-Problem Solving
-        ↓
-Backend Fundamentals
-        ↓
-AI / ML Basics
-        ↓
-AI-powered iOS Apps
+                 iOS Development
+                       │
+                       ▼
+              ┌─────────────────┐
+              │ Swift + SwiftUI │
+              └────────┬────────┘
+                       │
+                       ▼
+                    MVVM
+                       │
+                       ▼
+              Real iOS Projects
+                       │
+                       ▼
+                ┌────────────┐
+                │   Python   │
+                └─────┬──────┘
+                      │
+                      ▼
+                 AI / ML Basics
+                      │
+                      ▼
+              AI-powered iOS Apps
 ```
+
+**Learn → Practice → Build → Improve → Ship**
 
 </div>
 
 ---
 
-# 🏆 Certifications & Learning
+# 🏆 Certifications
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Apple%20Ads-Certified%202026-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Swift-iOS%20Development-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
 
 </div>
 
@@ -200,18 +257,18 @@ AI-powered iOS Apps
 <div align="center">
 
 ```text
-LEARN
-  ↓
-PRACTICE
-  ↓
-BUILD
-  ↓
-IMPROVE
-  ↓
-SHIP
+        LEARN
+          ↓
+       PRACTICE
+          ↓
+        BUILD
+          ↓
+       IMPROVE
+          ↓
+         SHIP
 ```
 
-**Small progress every day.**
+### Small progress every day. 🚀
 
 </div>
 
@@ -222,11 +279,12 @@ SHIP
 ```text
 ✓ Strengthen Swift & SwiftUI
 ✓ Improve iOS architecture skills
-✓ Build more polished iOS projects
+✓ Build polished iOS projects
 ✓ Continue learning Python
+✓ Explore AI / ML fundamentals
 → Explore backend development
-→ Explore AI / ML fundamentals
 → Build AI-powered iOS experiences
+→ Ship real products
 → Grow as a professional iOS Engineer
 ```
 
