@@ -1,21 +1,21 @@
 <div align="center">
 
-<!-- Animated Header -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Engineer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Core+Data;Exploring+Python+%26+FastAPI+%F0%9F%90%8D;Turning+ideas+into+real+apps+%F0%9F%9A%80;Always+learning.+Always+building.+%E2%9C%A8"/>
+<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Core+Data;Learning+Python+step+by+step+%F0%9F%90%8D;Exploring+AI+%26+mobile+development+%F0%9F%A4%96;Always+learning.+Always+building.+%E2%9C%A8"/>
 
 <br/>
 
 <a href="https://github.com/MsachitXD">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="https://linkedin.com/in/sachit-mittal">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <img src="https://komarev.com/ghpvc/?username=msachitxd&style=for-the-badge&color=0f3460&label=VISITORS"/>
 
 </div>
@@ -26,17 +26,16 @@
 
 I'm an **iOS Developer** focused on building clean, responsive and enjoyable mobile experiences with **Swift and SwiftUI**.
 
-My main focus is the Apple ecosystem, while I'm expanding into backend development with **Python and FastAPI** to build complete products from frontend to backend.
+My current focus is the **Apple ecosystem**, with an interest in expanding my skills into Python and AI development over time.
 
 ```swift
-let developer = Developer(
-    focus: "iOS Engineering",
-    frontend: ["Swift", "SwiftUI"],
-    architecture: ["MVVM"],
-    persistence: ["Core Data", "SQLite"],
-    backend: ["Python", "FastAPI"],
-    goal: "Build products people actually use"
-)
+struct Developer {
+    let focus = "iOS Development"
+    let skills = ["Swift", "SwiftUI", "MVVM", "Core Data"]
+    let tools = ["Xcode", "Git", "GitHub"]
+    let learning = ["Python"]
+    let goal = "Build great apps for real users"
+}
 ```
 
 ### ⚡ What I Do
@@ -44,11 +43,11 @@ let developer = Developer(
 ```text
 📱 iOS Development       → Swift + SwiftUI
 🎨 UI Engineering        → Responsive & polished interfaces
-🏗️ Architecture          → MVVM + clean separation
-💾 Local Storage         → Core Data + SQLite
-🌐 Backend               → Python + FastAPI
-🚀 Product Building      → Idea → App → Backend
+🏗️ Architecture          → MVVM
+💾 Local Persistence     → Core Data
+🧩 App Development       → Building practical iOS projects
 🍎 Apple Ecosystem       → Xcode + App Store
+🌱 Currently Learning    → Python
 ```
 
 ---
@@ -57,7 +56,7 @@ let developer = Developer(
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=swift,xcode,python,fastapi,sqlite,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=swift,xcode,git,github&theme=dark"/>
 
 </div>
 
@@ -67,10 +66,10 @@ let developer = Developer(
 | ---------------- | ------------------------------------ |
 | **iOS**          | Swift · SwiftUI · Xcode              |
 | **Architecture** | MVVM                                 |
-| **Data**         | Core Data · SQLite                   |
+| **Data**         | Core Data                            |
 | **Networking**   | URLSession · REST APIs · async/await |
-| **Backend**      | Python · FastAPI                     |
 | **Tools**        | Git · GitHub · Xcode                 |
+| **Learning**     | Python 🌱                            |
 
 ---
 
@@ -136,35 +135,31 @@ Live data • Categories • Article navigation
 
 ---
 
-# 🐍 From iOS → Backend
+# 🌱 Currently Learning
 
-I'm currently expanding beyond the client side.
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
+
+<br/><br/>
+
+### Python
+
+Learning Python step by step with the goal of understanding:
 
 ```text
-                 ┌─────────────────────┐
-                 │      SwiftUI        │
-                 │     iOS App         │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │      REST API       │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │   Python / FastAPI  │
-                 └──────────┬──────────┘
-                            │
-                            ▼
-                 ┌─────────────────────┐
-                 │    SQLite / Data    │
-                 └─────────────────────┘
+Python Fundamentals
+        ↓
+Problem Solving
+        ↓
+Backend Fundamentals
+        ↓
+AI / ML Basics
+        ↓
+AI-powered iOS Apps
 ```
 
-**Long-term direction:**
-
-> SwiftUI frontend + Python backend + AI-powered features.
+</div>
 
 ---
 
@@ -173,8 +168,8 @@ I'm currently expanding beyond the client side.
 <div align="center">
 
 <img src="https://img.shields.io/badge/Apple%20Ads-Certified%202026-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Swift-iOS%20Development-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
@@ -200,21 +195,23 @@ I'm currently expanding beyond the client side.
 
 ---
 
-# 🧠 Currently Building
+# 🧠 Developer Mindset
 
 <div align="center">
 
 ```text
-████████████████████████████████████████  100%
-
-SwiftUI                         ████████████████████
-iOS Architecture               ███████████████████░
-Python                          ████████████████░░░░
-FastAPI                         ██████████████░░░░░░
-AI + iOS                        ███████████░░░░░░░░░
+LEARN
+  ↓
+PRACTICE
+  ↓
+BUILD
+  ↓
+IMPROVE
+  ↓
+SHIP
 ```
 
-**Learning → Building → Shipping**
+**Small progress every day.**
 
 </div>
 
@@ -224,12 +221,13 @@ AI + iOS                        ███████████░░░░░
 
 ```text
 ✓ Strengthen Swift & SwiftUI
-✓ Build production-quality iOS projects
-✓ Learn Python backend development
-✓ Build FastAPI services
-→ Combine iOS + Backend + AI
-→ Ship real products
-→ Grow as an iOS Engineer
+✓ Improve iOS architecture skills
+✓ Build more polished iOS projects
+✓ Continue learning Python
+→ Explore backend development
+→ Explore AI / ML fundamentals
+→ Build AI-powered iOS experiences
+→ Grow as a professional iOS Engineer
 ```
 
 ---
@@ -238,7 +236,7 @@ AI + iOS                        ███████████░░░░░
 
 ## Let's Build Something Great.
 
-**Swift • SwiftUI • Python • FastAPI • AI**
+**Swift • SwiftUI • iOS • Python • AI**
 
 <br/>
 
