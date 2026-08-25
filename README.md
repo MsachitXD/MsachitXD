@@ -1,3 +1,6 @@
+Yes 👍 Here is the **complete final `README.md` code**, all in one block, ready to copy.
+
+````markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
@@ -31,6 +34,7 @@ My current focus is the **Apple ecosystem**. I'm also expanding my knowledge of 
 ```swift
 struct Developer {
     let focus = "iOS Development"
+
     let skills = [
         "Swift",
         "SwiftUI",
@@ -56,7 +60,7 @@ struct Developer {
 
     let goal = "Build great apps for real users"
 }
-```
+````
 
 ---
 
@@ -80,7 +84,7 @@ struct Developer {
 
 <div align="center">
 
-### 🍎 iOS Development
+## 🍎 iOS Development
 
 <img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark"/>
 
@@ -90,7 +94,13 @@ struct Developer {
 
 <br/><br/>
 
-### 🛠️ Development Tools
+## 💾 Data & Networking
+
+**Core Data · REST APIs · URLSession · async/await**
+
+<br/><br/>
+
+## 🛠️ Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
 
@@ -100,13 +110,13 @@ struct Developer {
 
 <br/><br/>
 
-### 🤖 AI Tools
+## 🤖 AI Tools
 
 **ChatGPT · Claude · AI-assisted development**
 
 <br/><br/>
 
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 
 <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
 
@@ -174,7 +184,7 @@ Live data • Categories • Article navigation
 
 ### An offline word-guessing game
 
-`SwiftUI` `Offline` `MVVM`
+`SwiftUI` `Offline`
 
 20 categories • 600 words • Offline gameplay
 
@@ -191,32 +201,32 @@ Live data • Categories • Article navigation
 <div align="center">
 
 ```text
-                 iOS Development
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ Swift + SwiftUI │
-              └────────┬────────┘
-                       │
-                       ▼
+              iOS Development
+                     │
+                     ▼
+            ┌─────────────────┐
+            │ Swift + SwiftUI │
+            └────────┬────────┘
+                     │
+                     ▼
                     MVVM
-                       │
-                       ▼
-              Real iOS Projects
-                       │
-                       ▼
-                ┌────────────┐
-                │   Python   │
-                └─────┬──────┘
-                      │
-                      ▼
-                 AI / ML Basics
-                      │
-                      ▼
-              AI-powered iOS Apps
+                     │
+                     ▼
+             Real iOS Projects
+                     │
+                     ▼
+              ┌────────────┐
+              │   Python   │
+              └─────┬──────┘
+                    │
+                    ▼
+               AI / ML Basics
+                    │
+                    ▼
+             AI-powered iOS Apps
 ```
 
-**Learn → Practice → Build → Improve → Ship**
+### Learn → Practice → Build → Improve → Ship
 
 </div>
 
@@ -232,21 +242,17 @@ Live data • Categories • Article navigation
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"/>
+<a href="https://github.com/MsachitXD">
+<img src="https://img.shields.io/badge/GitHub-MsachitXD-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&hide_border=true&theme=transparent"/>
+<br/><br/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msachitxd&bg_color=00000000&color=888888&line=007AFF&point=ffffff&area=true&hide_border=true"/>
+**Building. Learning. Improving. Shipping. 🚀**
 
 </div>
 
@@ -282,6 +288,7 @@ Live data • Categories • Article navigation
 ✓ Build polished iOS projects
 ✓ Continue learning Python
 ✓ Explore AI / ML fundamentals
+
 → Explore backend development
 → Build AI-powered iOS experiences
 → Ship real products
@@ -309,3 +316,4 @@ Live data • Categories • Article navigation
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:000000&height=120&section=footer"/>
+```
