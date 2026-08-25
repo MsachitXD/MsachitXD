@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20&height=200&section=header&text=Sachit%20Mittal&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=iOS%20Developer%20%E2%80%A2%20Swift%20%26%20SwiftUI&descAlignY=58&descSize=18"/>
+
 <a href="https://github.com/MsachitXD">
   <img src="https://github.com/user-attachments/assets/2a717000-5b77-42ed-9118-697166c2fbfc" width="120" height="120" style="border-radius:50%"/>
 </a>
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Sachit+Mittal;iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist+%E2%9C%A8;Apple+Ads+Certified+2026+%F0%9F%8F%86;Building+for+App+Store+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=E94560&center=true&vCenter=true&width=650&height=80&lines=Hi+%F0%9F%91%8B+I'm+Sachit+Mittal;iOS+Developer+%F0%9F%8D%8E;Swift+%26+SwiftUI+Specialist+%E2%9C%A8;Apple+Ads+Certified+2026+%F0%9F%8F%86;Building+for+App+Store+%F0%9F%9A%80)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=msachitxd&color=e94560&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachit-mittal)
@@ -97,14 +99,7 @@ Word-guessing game with a custom database of 20 categories × 30 words, built fu
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0062CC?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=swift,xcode,python,fastapi,sqlite,git,github&theme=dark" />
 
 </div>
 
@@ -116,6 +111,16 @@ Word-guessing game with a custom database of 20 categories × 30 words, built fu
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=msachitxd&show_icons=true&theme=radical&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=msachitxd&theme=radical&hide_border=true" />
 </div>
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<img src="https://raw.githubusercontent.com/MsachitXD/MsachitXD/output/github-contribution-grid-snake-dark.svg" alt="contribution snake animation"/>
+<!--END_SECTION:waka-->
+
+</div>
+
+> 💡 The snake animation above needs a one-time GitHub Action set up on your profile repo (`MsachitXD/MsachitXD`) — I can walk you through that if you want it live.
 
 ---
 
@@ -140,3 +145,5 @@ Word-guessing game with a custom database of 20 categories × 30 words, built fu
 <sub>💬 *"Become a professional iOS Engineer building high-quality apps for real users."*</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,6,20&height=100&section=footer"/>
