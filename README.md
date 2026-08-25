@@ -81,7 +81,7 @@ struct Developer {
 
 **A polished SwiftUI dice experience**
 
-`SwiftUI` `Haptics` `GeometryReader`
+`SwiftUI` `Haptics` `GeometryReader` `Offline`
 
 Responsive interface • Smooth animations • Haptic feedback
 
@@ -95,7 +95,7 @@ Responsive interface • Smooth animations • Haptic feedback
 
 **A modern wallpaper experience for iOS**
 
-`SwiftUI` `MVVM` `Core Data`
+`SwiftUI` `MVVM`
 
 Categories • Favorites • Downloads • Local persistence
 
@@ -123,7 +123,7 @@ Live data • Categories • Article navigation
 
 **Offline word game built entirely with SwiftUI**
 
-`SwiftUI` `Core Data` `Offline`
+`SwiftUI` `MVVM` `Offline`
 
 20 categories • 600 words • Local database
 
