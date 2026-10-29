@@ -1,322 +1,157 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1e,50:2c2c2e,100:F05138&height=120&section=header&animation=twinkling"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0f3460&height=220&section=header&text=SACHIT%20MITTAL&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=iOS%20Developer%20%7C%20Swift%20%7C%20SwiftUI&descAlignY=60&descSize=20"/>
+<br/>
+
+```
+  ____             _     _ _     __  __ _ _   _        _
+ / ___|  __ _  ___| |__ (_) |_  |  \/  (_) |_| |_ __ _| |
+ \___ \ / _` |/ __| '_ \| | __| | |\/| | | __| __/ _` | |
+  ___) | (_| | (__| | | | | |_  | |  | | | |_| || (_| | |
+ |____/ \__,_|\___|_| |_|_|\__| |_|  |_|_|\__|\__\__,_|_|
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=F05138&center=true&vCenter=true&width=500&height=45&lines=iOS+Developer+%7C+Swift+%26+SwiftUI;Building+beautiful+apps+%F0%9F%93%B1;MVVM+%7C+Combine+%7C+Realm;Jodhpur%2C+India+%F0%9F%87%AE%F0%9F%87%B3" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=SFMono-Regular&weight=600&size=23&pause=1200&color=FFFFFF&center=true&vCenter=true&width=720&height=70&lines=Building+beautiful+iOS+experiences+%F0%9F%93%B1;SwiftUI+%7C+MVVM+%7C+Xcode;Combine+%7C+REST+APIs+%7C+Realm;Creating+apps+with+Swift+%F0%9F%8D%8E;Always+learning.+Always+building.+%E2%9C%A8"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachit-mittal)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MsachitXD)
+[![Mail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachitmittal073@gmail.com)
 
 <br/>
 
-<a href="https://github.com/MsachitXD">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/sachit-mittal">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sachitmittal073@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=msachitxd&style=for-the-badge&color=0f3460&label=VISITORS"/>
+![](https://komarev.com/ghpvc/?username=msachitxd&color=F05138&style=flat-square&label=👀+views)
 
 </div>
 
+<br/>
+
 ---
 
-# 👋 Hello, I'm Sachit
+<table>
+<tr>
+<td valign="top" width="50%">
 
-I'm an **iOS Developer** focused on building clean, responsive and enjoyable mobile experiences with **Swift and SwiftUI**.
-
-My current focus is the **Apple ecosystem**. I'm also expanding my knowledge of **Python and AI/ML** step by step.
+### 🍎 Who am I?
 
 ```swift
-struct Developer {
-    let name     = "Sachit Mittal"
-    let focus    = "iOS Development"
-
-    let skills   = ["Swift", "SwiftUI", "MVVM", "Combine", "Realm"]
-    let tools    = ["Xcode", "Git", "GitHub"]
-    let aiTools  = ["ChatGPT", "Claude"]
-    let learning = ["Python", "AI / ML"]
-
-    let goal     = "Build great apps for real users"
+struct Sachit {
+  var role     = "iOS Developer"
+  var location = "Jodhpur 🇮🇳"
+  var stack    = [
+    "Swift", "SwiftUI",
+    "Combine", "MVVM", "Realm"
+  ]
+  var learning = ["Python", "AI/ML"]
+  var goal     = "ship great apps"
 }
 ```
 
----
+</td>
+<td valign="top" width="50%">
 
-# ⚡ What I Do
+### ⚡ Right now
 
-```text
-📱 iOS Development       → Swift + SwiftUI
-🎨 UI Engineering        → Responsive & polished interfaces
-🏗️ Architecture          → MVVM
-🌐 Networking            → REST APIs + Combine
-💾 Data                  → Realm
-🛠️ Development Tools     → Git + GitHub + Xcode
-🤖 AI Tools              → ChatGPT + Claude
-🌱 Currently Learning    → Python + AI / ML
-```
+- 🔨 Building iOS apps with SwiftUI
+- 📐 Practicing clean MVVM architecture
+- 🌊 Using Combine for reactive data flow
+- 🌱 Learning Python on the side
+- 🎯 Looking for my first full-time iOS role
 
----
-
-# 🧩 Skills & Technologies
-
-<div align="center">
-
-## 🍎 iOS Development
-
-<img src="https://skillicons.dev/icons?i=swift,xcode&theme=dark"/>
-
-<br/><br/>
-
-**Swift · SwiftUI · Xcode · MVVM · Combine · Realm**
-
-<br/><br/>
-
-## 🌐 Networking
-
-**REST APIs · Combine · Reactive Data Handling**
-
-<br/><br/>
-
-## 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark"/>
-
-<br/><br/>
-
-**Git · GitHub · TestFlight**
-
-<br/><br/>
-
-## 🤖 AI Tools
-
-**ChatGPT · Claude · AI-assisted development**
-
-<br/><br/>
-
-## 🌱 Currently Learning
-
-<img src="https://skillicons.dev/icons?i=python&theme=dark"/>
-
-<br/><br/>
-
-**Python · AI / ML fundamentals**
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Selected Projects
+### 🚀 Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🖼️ WallSky
-
-### A modern wallpaper experience for iOS
+**🖼️ [WallSky](https://github.com/MsachitXD/WallSky-App)**
+Wallpaper browser for iOS
 
 `SwiftUI` `MVVM` `Realm`
 
-Category browsing • Favorites • High-res wallpaper downloads
+✔ Category browsing
+✔ Favorites
+✔ High-res downloads
 
-<a href="https://github.com/MsachitXD/WallSky-App">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-<br/><br/>
+**📰 [News Reader](https://github.com/MsachitXD/News-App)**
+Live news with reactive Swift
 
----
+`SwiftUI` `Combine` `REST API` `MVVM`
 
-## 📰 News Reader
+✔ Live API data
+✔ Tabbed categories
+✔ Strict MVVM
 
-### Real-time news with reactive Swift networking
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-`SwiftUI` `MVVM` `Combine` `REST API`
+**🎲 [ROLL XD](https://github.com/MsachitXD/Dice-App)**
+Polished dice experience
 
-Live news · Categorized tabs (World, Sports, Technology) · Strict MVVM
+`SwiftUI` `Haptics`
 
-<a href="https://github.com/MsachitXD/News-App">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+✔ Smooth animations
+✔ Haptic feedback
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
----
-
-## 🎲 ROLL XD
-
-### A polished SwiftUI dice experience
-
-`SwiftUI` `Haptics` `GeometryReader`
-
-Responsive interface • Smooth animations • Haptic feedback
-
-<a href="https://github.com/MsachitXD/Dice-App">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
----
-
-## 🔤 Hangman
-
-### An offline word-guessing game
+**🔤 Hangman**
+Offline word game
 
 `SwiftUI` `Offline`
 
-20 categories • 600 words • Offline gameplay
+✔ 20 categories
+✔ 600 words
 
-<a href="https://github.com/MsachitXD">
-<img src="https://img.shields.io/badge/MORE%20PROJECTS-111111?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+### 📊 Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MsachitXD&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MsachitXD&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" height="165"/>
+<img src="https://streak-stats.demolab.com?user=MsachitXD&theme=dark&hide_border=true&ring=F05138&fire=F05138&currStreakLabel=F05138"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MsachitXD&theme=midnight-purple&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MsachitXD&theme=react-dark&hide_border=true&color=F05138&line=F05138&point=ffffff&area=true&area_color=F05138"/>
 
 </div>
 
 ---
 
-# 🏆 Trophies
+### 🏅 Certifications
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MsachitXD&theme=darkhub&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MsachitXD/MsachitXD/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MsachitXD/MsachitXD/output/github-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MsachitXD/MsachitXD/output/github-snake.svg"/>
-</picture>
-
-</div>
-
----
-
-# 🌱 Learning Journey
-
-<div align="center">
-
-```text
-         iOS Development
-                │
-                ▼
-       ┌─────────────────┐
-       │ Swift + SwiftUI │
-       └────────┬────────┘
-                │
-                ▼
-         MVVM + Combine
-                │
-                ▼
-          Real iOS Projects
-                │
-                ▼
-         ┌────────────┐
-         │   Python   │
-         └─────┬──────┘
-               │
-               ▼
-          AI / ML Basics
-               │
-               ▼
-        AI-powered iOS Apps
-```
-
-### Learn → Practice → Build → Improve → Ship
-
-</div>
-
----
-
-# 🏆 Certifications
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Apple%20Ads-Certified%202026-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Aspire%20Leaders%20Program-Apr%202026-1a1a2e?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/McKinsey%20Forward%20Program-Dec%202025-0f3460?style=for-the-badge&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/iOS%20Dev%20Masterclass%202026-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white"/>
-
-</div>
-
----
-
-# 🎯 2026 → Next Chapter
-
-```text
-✓ Strengthen Swift & SwiftUI
-✓ Improve iOS architecture skills (MVVM + Combine)
-✓ Build polished iOS projects
-✓ Continue learning Python
-✓ Explore AI / ML fundamentals
-
-→ Build AI-powered iOS experiences
-→ Ship real products to users
-→ Grow as a professional iOS Engineer
-```
-
----
-
-# 🧠 Developer Mindset
-
-<div align="center">
-
-```text
-   LEARN → PRACTICE → BUILD → IMPROVE → SHIP
-```
-
-### Small progress every day. 🚀
+![Apple Ads](https://img.shields.io/badge/Apple%20Ads%20Certified%20%E2%80%94%202026-000000?style=flat-square&logo=apple&logoColor=white)
+![Aspire](https://img.shields.io/badge/Aspire%20Leaders%20Program%20%E2%80%94%20Apr%202026-0a66c2?style=flat-square)
+![McKinsey](https://img.shields.io/badge/McKinsey%20Forward%20Program%20%E2%80%94%20Dec%202025-003366?style=flat-square)
+![Udemy](https://img.shields.io/badge/iOS%20Dev%20Masterclass%202026%20%E2%80%94%20Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white)
 
 </div>
 
 ---
 
 <div align="center">
-
-## Let's Build Something Great.
-
-**Swift • SwiftUI • Combine • MVVM • iOS**
-
-<br/>
-
-<a href="https://linkedin.com/in/sachit-mittal">
-<img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<sub>Designed with ❤️ and a lot of Swift.</sub>
-
+  <sub>Swift · SwiftUI · Combine · MVVM · Realm &nbsp;|&nbsp; Building one app at a time 📱</sub>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:1a1a2e,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c2c2e,100:1c1c1e&height=80&section=footer"/>
